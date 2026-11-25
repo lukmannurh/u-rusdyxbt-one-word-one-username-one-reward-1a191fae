@@ -21,5 +21,7 @@
 
 ## Submission
 
-- Not submitted yet (parent handles commit/push/bundle/check/submit).
-- No claim code (none yet).
+- Submission: 01a210b4-b81d-713d-b9ec-22abeafee496
+- Commit: 6fd12d9c2b3393dc7166b60dcd7a27adc4221f23
+- Stage: checked
+- Claim code: AF-XF364-PRE1A-K7J18-0R24N
